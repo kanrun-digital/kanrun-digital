@@ -8,7 +8,9 @@
 > Stats auto-updated by [aidevops](https://aidevops.sh).
 
 <!-- STATS-START -->
-<!-- Stats will be populated on first update -->
+## Work with AI
+
+_Stats will appear here automatically once [aidevops](https://aidevops.sh) has been running locally. Includes AI session hours, model usage, token costs, and screen time._
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
@@ -20,4 +22,5 @@
 ---
 
 <!-- UPDATED-START -->
+_Stats auto-updated 2026-04-25 18:23 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
